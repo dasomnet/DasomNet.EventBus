@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DasomNet.EventBus", "DasomNet.EventBus\DasomNet.EventBus.csproj", "{2FB9A27E-E05D-4F42-B027-46A1CF1DEEBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DasomNet.EventBus.Tests", "DasomNet.EventBus.Tests\DasomNet.EventBus.Tests.csproj", "{8525643D-FFB1-4FCF-B3C6-41D4BABCAEE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{2FB9A27E-E05D-4F42-B027-46A1CF1DEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FB9A27E-E05D-4F42-B027-46A1CF1DEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FB9A27E-E05D-4F42-B027-46A1CF1DEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8525643D-FFB1-4FCF-B3C6-41D4BABCAEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8525643D-FFB1-4FCF-B3C6-41D4BABCAEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8525643D-FFB1-4FCF-B3C6-41D4BABCAEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8525643D-FFB1-4FCF-B3C6-41D4BABCAEE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
